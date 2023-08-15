@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 const App = () => {
 
-  const API_KEY = process.env.REACT_APP_API_KEY
+  const API_KEY = "39f19c7a648645c199770ec390893ffc"
   // API_KEY = "39f19c7a648645c199770ec390893ffc";
 
 const [progress, setprogress] = useState(0)
